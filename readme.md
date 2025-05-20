@@ -1,6 +1,7 @@
 # TypeScript NodeJS Template🚀
 
-![png-transparent-node-js-javascript-computer-icons-github-angle-text-logo](https://github.com/siva-geddada/basic_nodejs_typescript-template/assets/24616854/db9a06a9-9efb-4fb7-b4de-631770e77eeb)
+![image](https://github.com/user-attachments/assets/8da942d6-a78c-4e89-ae68-3b460e7788df)
+
 
 This is a sample project demonstrating how to build a Node.js application using TypeScript. It includes configuration files and sample code to help you get started quickly.
 
